@@ -12,6 +12,12 @@ zmieniają się wyłącznie zdjęcia. Grafika JPG jest również okładką filmu
 Pliki publikacyjne znajdują się w `1-czek-turystyczny/`; cały zestaw można
 pobrać jako ZIP. W podglądzie film znajduje się po lewej, grafika po prawej.
 
+## 2. Taśma 48 V
+
+Cztery propozycje banneru „Do 20 m z jednego zasilania” z delikatnymi liniami
+wzdłuż taśmy. Podgląd: `tasma-48v.html`. Pliki PNG i komplet ZIP znajdują się
+w `2-tasma-48v/`.
+
 ## Kolejne zestawy
 
 Każdy kolejny temat otrzymuje własny numer i katalog, np. `2-nazwa-tematu/`.

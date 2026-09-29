@@ -8,7 +8,7 @@ hasłem „Wykorzystaj czek turystyczny.” i przyciskiem „Rezerwuj”.
 
 02_FILM_FACEBOOK.mp4 — 16 sekund, 30 klatek/s, H.264, bez dźwięku.
 Zmieniają się wyłącznie zdjęcia w górnej części: jacuzzi i jezioro,
-widok przez szybę apartamentu, a na końcu jacuzzi na słonecznym tarasie. Hasło, przycisk, logo, telefon i daty
+jacuzzi na słonecznym tarasie, a na końcu bliższy kadr jacuzzi i jeziora. Hasło, przycisk, logo, telefon i daty
 są nieruchome i identyczne jak na grafice. Okładką filmu jest grafika JPG.
 
 TEKST_POSTA.txt — opis do skopiowania.
