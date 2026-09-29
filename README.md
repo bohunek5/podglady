@@ -6,9 +6,11 @@ Strona: https://bohunek5.github.io/podglady/
 
 ## 1. Czek turystyczny
 
-Materiały do Facebooka dla Stranda Residence: klasyczny post JPG, film MP4,
-pionowa rolka, grafika kwadratowa i tekst do posta. Pliki publikacyjne znajdują
-się w `1-czek-turystyczny/`; cały zestaw można pobrać jako ZIP.
+Materiały do Facebooka dla Stranda Residence: klasyczny post JPG i identyczny
+film MP4, oba 1440 × 1800 px (4:5), oraz tekst do posta. Film ma 16 sekund;
+zmieniają się wyłącznie zdjęcia. Grafika JPG jest również okładką filmu.
+Pliki publikacyjne znajdują się w `1-czek-turystyczny/`; cały zestaw można
+pobrać jako ZIP. W podglądzie film znajduje się po lewej, grafika po prawej.
 
 ## Kolejne zestawy
 

@@ -1,42 +1,36 @@
 MATERIAŁY DO FACEBOOKA — STRANDA RESIDENCE
 
-Na początek polecam 02_FILM_FACEBOOK.mp4 oraz tekst z TEKST_POSTA.txt.
-To spokojna, 16-sekundowa animacja prawdziwych zdjęć: jacuzzi, taras i wnętrze.
-Film ma czytelne napisy i działa bez dźwięku. Muzykę możesz dobrać podczas
-publikacji na Facebooku, jeśli chcesz.
+Gotowe są dwie zgodne wizualnie wersje: grafika JPG i film MP4.
+Oba pliki mają 1440 × 1800 px, proporcje 4:5.
 
-CO JEST W FOLDERZE
+01_POST_FACEBOOK.jpg — klasyczny post z dużym zdjęciem jacuzzi,
+hasłem „Wykorzystaj czek turystyczny.” i przyciskiem „Rezerwuj”.
 
-01_POST_FACEBOOK.jpg — klasyczna grafika do posta, pionowa 4:5, 1440 × 1800 px.
-02_FILM_FACEBOOK.mp4 — animacja 4:5, 1080 × 1350 px, 16 sekund.
-03_ROLKA_PIONOWA.mp4 — ten sam film w pionie 9:16, 1080 × 1920 px, do rolki.
-04_POST_KWADRAT.jpg — dodatkowa wersja zwykłej grafiki, 1080 × 1080 px.
-TEKST_POSTA.txt — gotowy opis do skopiowania.
-Podglądy online: https://bohunek5.github.io/podglady/#1-czek-turystyczny
+02_FILM_FACEBOOK.mp4 — 16 sekund, 30 klatek/s, H.264, bez dźwięku.
+Zmieniają się wyłącznie zdjęcia w górnej części: jacuzzi, wnętrze,
+a na końcu szeroki kadr jacuzzi. Hasło, przycisk, logo, telefon i daty
+są nieruchome i identyczne jak na grafice. Okładką filmu jest grafika JPG.
 
-JAK DODAĆ
+TEKST_POSTA.txt — opis do skopiowania.
+CZEK_TURYSTYCZNY.zip — aktualna grafika, film, opis i ta instrukcja.
+PODGLAD.html — podgląd lokalny; film po lewej, grafika po prawej.
+Podglądy online: https://bohunek5.github.io/podglady/
 
-1. Otwórz profil / stronę Mazury.Holiday na Facebooku.
-2. Rozpocznij tworzenie posta i dodaj plik JPG lub MP4 z tego folderu.
-   Dla rolki wybierz 03_ROLKA_PIONOWA.mp4.
-3. Wklej opis z TEKST_POSTA.txt, sprawdź podgląd i opublikuj.
-4. Grafikę i film warto wykorzystać jako osobne publikacje.
+PUBLIKACJA
 
-DLACZEGO MP4
+1. Otwórz stronę Mazury.Holiday na Facebooku i rozpocznij publikację.
+2. Dodaj 01_POST_FACEBOOK.jpg albo 02_FILM_FACEBOOK.mp4.
+3. Dla filmu ustaw 01_POST_FACEBOOK.jpg jako okładkę, jeśli wybierasz ją ręcznie.
+4. Wklej opis z TEKST_POSTA.txt, sprawdź podgląd i opublikuj.
 
-Wybrałem film MP4 (H.264), ponieważ zachowuje płynny ruch, ostre napisy
-i kolory zdjęć. Do tej propozycji nie potrzebujesz GIF-a.
-MP4 wrzucasz na Facebooka jako film. JPG służy do zwykłego posta ze zdjęciem.
+Grafikę i film możesz wykorzystać jako osobne publikacje.
+Napis „Rezerwuj” jest częścią obrazu. W samej publikacji kontakt zapewnia
+numer telefonu i link w opisie; przycisk platformy ustawiasz na Facebooku.
 
-INFORMACJE O MATERIAŁACH
-
-Zdjęcia pochodzą z projektu mazury.holiday — apartament C404 w Stranda Residence.
-Są to autentyczne zdjęcia oferty; ruch to delikatne zbliżenia i przenikanie ujęć.
-Logo i żółty akcent pochodzą z identyfikacji Mazury.Holiday.
-Materiały są po polsku i nie zostały opublikowane na Facebooku.
-
-Terminy oraz warunki sprawdzono 29.09.2026 na stronie obiektu w programie:
+Zdjęcia pochodzą z oferty apartamentu C404 w Stranda Residence.
+Materiały nie zostały opublikowane na Facebooku.
+Daty programu: 30.09–30.11.2026. Zasady i rezerwacja bezpośrednia:
 https://czekwarmiamazury.pl/obiekt-stranda-residence.html
-Czeki: 30.09–30.11.2026; rezerwacja bezpośrednia, co najmniej 2 noclegi,
-wartość rezerwacji wyższa od wartości czeku. Po zakończeniu programu należy
-zaktualizować daty przed ponowną publikacją materiałów.
+
+Poprzednie warianty zachowano w kopiach roboczych; aktualny komplet
+na stronie i w ZIP zawiera tylko powyższą grafikę oraz pasujący film.
